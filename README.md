@@ -291,7 +291,7 @@ python src/train.py \
 Evaluate the trained model
 
 ```bash
-python src/evaluate.py \
+python main.py evaluate \
 --model unet \
 --split test
 ```
