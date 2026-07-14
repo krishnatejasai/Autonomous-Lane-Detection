@@ -271,7 +271,7 @@ pip install -r requirements.txt
 Train the baseline model
 
 ```bash
-python src/train.py \
+python main.py train \
 --model baseline \
 --epochs 15
 ```
@@ -279,7 +279,7 @@ python src/train.py \
 Train U-Net
 
 ```bash
-python src/train.py \
+python main.py train \
 --model unet \
 --epochs 15
 ```
@@ -303,7 +303,7 @@ python main.py evaluate \
 Generate prediction visualizations
 
 ```bash
-python src/predict.py \
+python main.py predict \
 --model unet \
 --split test
 ```
