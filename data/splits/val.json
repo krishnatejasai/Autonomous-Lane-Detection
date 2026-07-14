@@ -1,0 +1,1454 @@
+[
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_16360.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_16360.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_37080.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_37080.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_9100.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_9100.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1050.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1050.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5320.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5320.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_4620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_4620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_6420.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_6420.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_16120.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_16120.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_24600.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_24600.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5540.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5540.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_47040.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_47040.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_515.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_515.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_32860.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_32860.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_35640.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_35640.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5760.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5760.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_5940.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_5940.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_48540.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_48540.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5080.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5080.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_26640.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_26640.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_31560.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_31560.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_30720.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_30720.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_25800.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_25800.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492635012549702766.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492635012549702766.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_220.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_220.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_34400.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_34400.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_4260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_4260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_25140.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_25140.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_8920.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_8920.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_41280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_41280.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38500.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38500.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452541524672627.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452541524672627.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_6780.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_6780.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_29580.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_29580.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_25080.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_25080.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_27960.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_27960.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_22440.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_22440.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_48900.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_48900.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38400.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38400.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452565513003505.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452565513003505.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_29520.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_29520.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_3540.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_3540.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_9780.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_9780.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_34500.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_34500.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_43200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_43200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_21660.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_21660.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_19140.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_19140.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_10420.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_10420.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_890.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_890.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_63000.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_63000.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_28200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_28200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_480.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_480.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1725.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1725.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_3360.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_3360.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1560.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1560.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_9840.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_9840.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452651475426838.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452651475426838.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_38580.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_38580.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_39780.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_39780.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_5460.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_5460.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_19560.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_19560.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_27720.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_27720.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_15740.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_15740.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_425.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_425.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453503601902751.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453503601902751.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1495058883487530264.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1495058883487530264.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13640.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13640.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_11940.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_11940.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_2820.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_2820.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_39540.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_39540.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453363663427060.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453363663427060.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_8380.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_8380.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_7320.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_7320.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_46260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_46260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452907863040653.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452907863040653.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_10440.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_10440.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452433570893263.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452433570893263.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_580.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_580.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_64620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_64620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_35200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_35200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_6260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_6260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_16700.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_16700.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_6360.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_6360.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_33120.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_33120.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_31260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_31260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_34880.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_34880.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452865884091279.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452865884091279.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_7620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_7620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_25080.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_25080.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492721432719866018.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492721432719866018.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_29640.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_29640.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_9300.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_9300.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_62760.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_62760.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453477613327463.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453477613327463.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_40100.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_40100.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492638756126904712.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492638756126904712.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492638593627388489.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492638593627388489.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_6520.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_6520.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7840.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7840.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_10020.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_10020.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_37680.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_37680.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1795.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1795.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_39300.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_39300.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_42820.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_42820.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_34080.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_34080.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_7800.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_7800.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452841891933527.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452841891933527.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_65.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_65.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_20760.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_20760.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_37980.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_37980.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_23760.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_23760.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38160.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38160.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_9900.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_9900.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1755.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1755.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_9620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_9620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_18360.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_18360.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492638458406565039.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492638458406565039.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_8280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_8280.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_34580.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_34580.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7580.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7580.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492629611663880645.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492629611663880645.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_23160.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_23160.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492725796966226184.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492725796966226184.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_8640.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_8640.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_475.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_475.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_9940.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_9940.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_64680.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_64680.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_15520.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_15520.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_22920.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_22920.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1350.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1350.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_39180.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_39180.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_7080.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_7080.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492635951718838004.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492635951718838004.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492629582045649629.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492629582045649629.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_8820.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_8820.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_36960.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_36960.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_35520.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_35520.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_10120.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_10120.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_23940.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_23940.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492628292995505180.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492628292995505180.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13480.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13480.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_49980.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_49980.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_37620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_37620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_39860.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_39860.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_15720.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_15720.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_21120.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_21120.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_34900.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_34900.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_42100.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_42100.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_240.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_240.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452579506899721.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452579506899721.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492630427101648855.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492630427101648855.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_11520.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_11520.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_23520.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_23520.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_41380.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_41380.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_19560.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_19560.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13000.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13000.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1495487774237668138.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1495487774237668138.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_40160.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_40160.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453751493293308.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453751493293308.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_51180.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_51180.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492724804460785501.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492724804460785501.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_12160.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_12160.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1000.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1000.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453003821041974.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453003821041974.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_8040.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_8040.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_17280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_17280.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_34760.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_34760.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_60060.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_60060.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_12120.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_12120.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5920.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5920.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1495485123591495860.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1495485123591495860.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5880.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5880.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_9780.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_9780.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1715.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1715.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_38340.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_38340.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_63840.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_63840.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_11860.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_11860.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_4400.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_4400.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_44880.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_44880.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7960.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7960.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_120.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_120.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_28740.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_28740.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_39600.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_39600.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_43920.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_43920.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_30720.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_30720.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13040.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13040.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1545.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1545.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_19440.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_19440.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1495492632606873781.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1495492632606873781.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_30780.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_30780.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453841456411836.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453841456411836.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_48720.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_48720.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492635545926699895.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492635545926699895.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1495489443319835168.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1495489443319835168.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_19020.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_19020.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1010.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1010.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1495492752555478395.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1495492752555478395.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_35280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_35280.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_11960.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_11960.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_19140.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_19140.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_3480.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_3480.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_31500.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_31500.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_4660.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_4660.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_29820.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_29820.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492637314530158622.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492637314530158622.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_450.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_450.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452883873479805.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452883873479805.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38580.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38580.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1240.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1240.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_18300.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_18300.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_670.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_670.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_4900.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_4900.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_830.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_830.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_4160.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_4160.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_12840.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_12840.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13140.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13140.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1355.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1355.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_8200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_8200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13280.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_23820.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_23820.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_22620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_22620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_28320.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_28320.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38020.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38020.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_40280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_40280.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_14040.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_14040.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_12820.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_12820.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_375.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_375.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_28560.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_28560.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_925.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_925.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452955841999173.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452955841999173.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453623549421445.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453623549421445.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_10760.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_10760.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38660.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38660.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_2220.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_2220.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492627609139574421.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492627609139574421.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_37960.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_37960.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_250.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_250.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492636589799538650.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492636589799538650.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453679527133712.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453679527133712.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_51300.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_51300.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_59280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_59280.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_24480.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_24480.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_10260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_10260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_10260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_10260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13460.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13460.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5720.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5720.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453111774592287.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453111774592287.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_58740.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_58740.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_17300.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_17300.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_14000.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_14000.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_49260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_49260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453635544157546.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453635544157546.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_34460.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_34460.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_51720.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_51720.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_58680.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_58680.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_8880.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_8880.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_40380.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_40380.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1125.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1125.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492628943833728494.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492628943833728494.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_41700.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_41700.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_4200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_4200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_6100.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_6100.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5380.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5380.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1495492530652417826.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1495492530652417826.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453889432873365.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453889432873365.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492636801472188458.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492636801472188458.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_19200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_19200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_21060.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_21060.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1495485237541517645.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1495485237541517645.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_25260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_25260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_18480.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_18480.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_64500.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_64500.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7500.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7500.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38180.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38180.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_680.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_680.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_10620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_10620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_36220.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_36220.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_62580.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_62580.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_42520.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_42520.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7760.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7760.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492627475054062025.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492627475054062025.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_37320.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_37320.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1495058787529671793.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1495058787529671793.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_30480.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_30480.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_6360.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_6360.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1405.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1405.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_4800.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_4800.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_15420.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_15420.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1190.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1190.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_24840.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_24840.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452823899947426.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452823899947426.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_345.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_345.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_42180.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_42180.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_36900.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_36900.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_15780.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_15780.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_17900.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_17900.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38840.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38840.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_455.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_455.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_28320.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_28320.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_10740.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_10740.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_15720.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_15720.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492637499885065518.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492637499885065518.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494452391590105691.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494452391590105691.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_28080.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_28080.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7540.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7540.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_60900.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_60900.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1494453411642210511.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1494453411642210511.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_24540.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_24540.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_16860.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_16860.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_5200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_5200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_46980.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_46980.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_8660.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_8660.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492628899624982140.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492628899624982140.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_700.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_700.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_40500.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_40500.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_51120.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_51120.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_8840.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_8840.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_35760.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_35760.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_3900.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_3900.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0601_1495058623602404204.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0601_1495058623602404204.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_63300.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_63300.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_205.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_205.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_16460.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_16460.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_435.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_435.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13120.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13120.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_41220.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_41220.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_40020.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_40020.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_48360.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_48360.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_39340.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_39340.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_22140.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_22140.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_1770.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_1770.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_46320.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_46320.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_7560.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_7560.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_15360.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_15360.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_41260.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_41260.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_15400.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_15400.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_36660.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_36660.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_16320.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_16320.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_34640.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_34640.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_14460.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_14460.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_30360.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_30360.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_36400.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_36400.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_34240.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_34240.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_31980.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_31980.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_40420.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_40420.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_13940.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_13940.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_14500.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_14500.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_8620.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_8620.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492637188172803493.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492637188172803493.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_14800.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_14800.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_37220.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_37220.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492635571411680202.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492635571411680202.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_40040.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_40040.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_14600.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_14600.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_4300.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_4300.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_7280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_7280.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_37560.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_37560.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-1_29880.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-1_29880.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_33000.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_33000.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0531_1492628957223415780.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0531_1492628957223415780.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_64200.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_64200.jpg"
+  },
+  {
+    "image": "data/raw/tusimple/tusimple_preprocessed/training/frames/0313-2_38280.jpg",
+    "mask": "data/raw/tusimple/tusimple_preprocessed/training/lane-masks/0313-2_38280.jpg"
+  }
+]

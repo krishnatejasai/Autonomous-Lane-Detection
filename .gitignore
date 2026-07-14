@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Large datasets
+data/raw/
+data/processed/
+
+# Model checkpoints
+outputs/checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Individual prediction folders
+# Keep the final grid images directly under outputs/predictions/
+outputs/predictions/baseline/
+outputs/predictions/unet/
+
+# Notebook files
+.ipynb_checkpoints/
