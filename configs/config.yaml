@@ -1,0 +1,31 @@
+project:
+  name: autonomous-lane-detection
+  seed: 42
+
+dataset:
+  name: TuSimple
+  image_height: 256
+  image_width: 512
+  train_split: data/splits/train.json
+  validation_split: data/splits/val.json
+  test_split: data/splits/test.json
+
+training:
+  model: unet
+  epochs: 15
+  batch_size: 4
+  learning_rate: 0.001
+  threshold: 0.5
+  num_workers: 0
+
+models:
+  baseline:
+    parameters: 34401
+  unet:
+    parameters: 7763041
+
+outputs:
+  checkpoints: outputs/checkpoints
+  metrics: outputs/metrics
+  figures: outputs/figures
+  predictions: outputs/predictions
