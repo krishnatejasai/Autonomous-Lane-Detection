@@ -1,178 +1,274 @@
-# Autonomous Driving Lane Detection
+# Autonomous Driving Lane Detection using Deep Learning
 
-PyTorch implementation of an end-to-end lane segmentation pipeline for autonomous driving using the TuSimple dataset.
+Institution: SRM Institute of Science and Technology
+Project Duration: 2024–2025
+Project Type: Undergraduate Research Project
+Faculty Guide: Dr. Godwin Ponsam J
+Dataset: TuSimple Lane Detection Benchmark
+Framework: PyTorch
+
+PyTorch implementation of an end-to-end lane segmentation pipeline for autonomous driving using the TuSimple Lane Detection Benchmark.
 
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green)
-![U--Net](https://img.shields.io/badge/Model-U--Net-purple)
+![Albumentations](https://img.shields.io/badge/Augmentation-Albumentations-orange)
+![U-Net](https://img.shields.io/badge/Model-U--Net-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
-## Overview
+# Overview
 
-This project benchmarks a lightweight CNN baseline against a U-Net architecture for pixel-wise lane segmentation.
+Autonomous driving systems require accurate lane perception for safe vehicle navigation. This repository presents a complete deep learning pipeline for semantic lane segmentation using the TuSimple Lane Detection Benchmark.
 
-The complete pipeline includes
-
-- Dataset preprocessing
-- Train / Validation / Test split generation
-- Data augmentation
-- CNN and U-Net models
-- Training & checkpointing
-- Quantitative evaluation
-- Prediction visualization
-- Training curves
-- Model comparison
+The project compares a lightweight CNN baseline against a U-Net segmentation model through quantitative evaluation, qualitative visualization, and runtime benchmarking.
 
 ---
 
-## System Architecture
+## Project Background
+
+This project was originally developed as an undergraduate research project
+at SRM Institute of Science and Technology (2024–2025)
+under the guidance of Dr. Godwin Ponsam J.
+
+The research team consisted of:
+
+- Sai Sri Krishna Teja Sanku
+- Harshith Kalyanam
+- Likhitha Pulluru
+
+This repository preserves the implementation developed as part of that
+project together with additional documentation, evaluation scripts,
+visualizations, and reproducibility improvements.
+
+---
+
+## Research Paper
+
+The original undergraduate research paper associated with this project is included in the `research/` directory.
+
+**Title:**
+*Deep Learning in Autonomous Vehicles: A Comprehensive Review of Object Detection, Lane Detection and Scene Perception*
+
+---
+
+## Team Contributions
+
+| Team Member | Contributions |
+|-------------|-----------------------|
+| **Sai Sri Krishna Teja Sanku** | Model implementation, training pipeline, evaluation, visualization |
+| **Harshith Kalyanam** | Research methodology, literature review, experimental analysis |
+| **Likhitha Pulluru** | Dataset analysis, related work, documentation, validation |
+
+---
+
+# Features
+
+- End-to-end semantic lane segmentation
+- TuSimple dataset preprocessing
+- Automatic train/validation/test split generation
+- Albumentations data augmentation
+- Lightweight CNN baseline
+- U-Net implementation
+- Dice + BCE hybrid loss
+- Checkpoint saving
+- Quantitative evaluation
+- Prediction visualization
+- Runtime benchmarking
+- Publication-quality training curves
+- Model comparison plots
+
+---
+
+# System Architecture
 
 ```mermaid
 flowchart LR
-    A[TuSimple Road Images] --> B[Image and Mask Pairing]
-    B --> C[Fixed Train / Validation / Test Split]
-    C --> D[Resize to 256 × 512]
-    D --> E[Data Augmentation]
-    E --> F[ImageNet Normalization]
 
-    F --> G1[Lightweight CNN Baseline]
-    F --> G2[U-Net]
+A[TuSimple Dataset]
 
-    G1 --> H[Pixel-wise Lane Logits]
-    G2 --> H
+A --> B[Image & Mask Pairing]
 
-    H --> I[Sigmoid and Thresholding]
-    I --> J[Binary Lane Mask]
-    J --> K[Lane Overlay Visualization]
+B --> C[Train / Validation / Test Split]
 
-    J --> L[Held-Out Test Evaluation]
-    L --> M[Pixel Accuracy]
-    L --> N[Precision and Recall]
-    L --> O[Dice / F1]
-    L --> P[Intersection over Union]
-    L --> Q[Latency and FPS]
+C --> D[Resize 256×512]
+
+D --> E[Data Augmentation]
+
+E --> F[ImageNet Normalization]
+
+F --> G1[Lightweight CNN]
+
+F --> G2[U-Net]
+
+G1 --> H[Segmentation Logits]
+
+G2 --> H
+
+H --> I[Sigmoid]
+
+I --> J[Binary Lane Mask]
+
+J --> K[Evaluation]
+
+J --> L[Prediction Visualization]
+
+K --> M[Pixel Accuracy]
+
+K --> N[Dice / F1]
+
+K --> O[IoU]
+
+K --> P[Precision]
+
+K --> Q[Recall]
+
+K --> R[FPS & Latency]
 ```
 
 ---
 
-## Held-Out Test Results
+# Dataset
 
-Evaluated on a fixed held-out test set of **363 TuSimple road images**.
+**Dataset**
 
-| Model | Parameters | Pixel Accuracy | Precision | Recall | Dice / F1 | IoU | Throughput |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Lightweight CNN | 34,401 | 95.16% | 53.25% | 52.88% | 53.07% | 36.12% | **238.73 FPS** |
-| U-Net | 7,763,041 | **97.61%** | **76.09%** | **78.46%** | **77.26%** | **62.94%** | 22.20 FPS |
-
-U-Net improved Dice/F1 by **24.19 percentage points** and IoU by **26.82 percentage points** over the lightweight CNN baseline, while the baseline delivered substantially higher inference throughput.
-
----
-
-## Qualitative Results
-
-The comparison visualization uses:
-
-- **Yellow:** correctly predicted lane pixels
-- **Green:** missed ground-truth lane pixels
-- **Red:** false-positive lane pixels
-
-![U-Net test predictions](outputs/predictions/unet_test_prediction_grid.png)
-
-## Training Curves
-
-### U-Net Loss
-
-![U-Net loss curve](outputs/figures/unet_loss_curve.png)
-
-### U-Net Dice Score
-
-![U-Net Dice curve](outputs/figures/unet_dice_curve.png)
-
-## Model Comparison
-
-![Baseline and U-Net comparison](outputs/figures/model_comparison.png)
-
-## Dataset Sample
-
-![TuSimple image, mask, and overlay](outputs/figures/dataset_sample.png)
-
----
-
-## Dataset
-
-Dataset:
 TuSimple Lane Detection Benchmark
 
-Total Images:
-3,626 road scenes
+Total Images
+
+```
+3626
+```
 
 Split
 
-- Train: 2,900
-- Validation: 363
-- Test: 363
+| Dataset | Images |
+|---------|--------|
+| Training | 2900 |
+| Validation | 363 |
+| Test | 363 |
 
 Image Resolution
 
+```
 256 × 512
+```
 
 ---
 
-## Model Performance
+# Experimental Results
 
-| Model | Pixel Accuracy | Dice | IoU | Precision | Recall |
-|------|------|------|------|------|------|
-| Baseline CNN | 95.16% | 53.07% | 36.12% | 53.25% | 52.88% |
-| U-Net | **97.61%** | **77.26%** | **62.94%** | **76.09%** | **78.46%** |
+Evaluation performed on the held-out TuSimple test set.
+
+| Model | Parameters | Pixel Accuracy | Precision | Recall | Dice/F1 | IoU | Throughput |
+|------|-----------:|--------------:|----------:|-------:|--------:|------:|-----------:|
+| Lightweight CNN | 34,401 | 95.16% | 53.25% | 52.88% | 53.07% | 36.12% | **238.73 FPS** |
+| U-Net | 7,763,041 | **97.61%** | **76.09%** | **78.46%** | **77.26%** | **62.94%** | 22.20 FPS |
+
+### Key Observation
+
+Compared to the lightweight CNN baseline, the U-Net achieved
+
+- +24.19% Dice/F1
+- +26.82% IoU
+- +22.84% Precision
+- +25.58% Recall
+
+while providing substantially higher segmentation accuracy than the lightweight CNN baseline, with practical inference speeds for research and offline evaluation.
 
 ---
 
-## Qualitative Results
+# Qualitative Results
 
-### U-Net Predictions
+Prediction visualization
+
+Color legend
+
+- 🟨 Yellow → Correct prediction
+- 🟩 Green → Missed lane pixels
+- 🟥 Red → False positive prediction
 
 ![Prediction](outputs/predictions/unet_test_prediction_grid.png)
 
-### Training Curves
+---
+
+# Training Curves
+
+### U-Net Loss
 
 ![Loss](outputs/figures/unet_loss_curve.png)
 
+### U-Net Dice Score
+
 ![Dice](outputs/figures/unet_dice_curve.png)
 
-### Model Comparison
+---
+
+# Model Comparison
 
 ![Comparison](outputs/figures/model_comparison.png)
 
 ---
 
-## Repository Structure
+# Dataset Sample
+
+![Dataset](outputs/figures/dataset_sample.png)
+
+---
+
+# Repository Structure
 
 ```
-autonomous-lane-detection/
-
-configs/
-
-data/
-
-outputs/
-
-src/
-
-requirements.txt
-
-README.md
+Autonomous-Lane-Detection
+│
+├── configs/                  # Configuration files
+├── data/                     # Dataset splits
+├── outputs/
+│   ├── checkpoints/
+│   ├── figures/
+│   ├── metrics/
+│   └── predictions/
+├── research/
+│   ├── Deep_Learning_in_Autonomous_Vehicles.pdf
+│   └── README.md
+├── src/
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── predict.py
+│   ├── dataset.py
+│   ├── models.py
+│   └── utils.py
+├── requirements.txt
+├── LICENSE
+└── README.md
 ```
 
 ---
 
-## Training
+# Installation
 
-Train Baseline
+Clone the repository
+
+```bash
+git clone https://github.com/krishnatejasai/Autonomous-Lane-Detection.git
+
+cd Autonomous-Lane-Detection
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# Training
+
+Train the baseline model
 
 ```bash
 python src/train.py \
@@ -190,7 +286,9 @@ python src/train.py \
 
 ---
 
-## Evaluation
+# Evaluation
+
+Evaluate the trained model
 
 ```bash
 python src/evaluate.py \
@@ -200,7 +298,9 @@ python src/evaluate.py \
 
 ---
 
-## Prediction
+# Prediction
+
+Generate prediction visualizations
 
 ```bash
 python src/predict.py \
@@ -210,42 +310,48 @@ python src/predict.py \
 
 ---
 
-## Technologies
+# Technologies
 
 - Python
 - PyTorch
 - OpenCV
-- NumPy
 - Albumentations
+- NumPy
 - Matplotlib
 - TuSimple Dataset
 
 ---
 
-## Results
-
-The U-Net model achieved
-
-- 97.61% Pixel Accuracy
-- 77.26% Dice/F1
-- 62.94% IoU
-
-on the held-out TuSimple test set.
-
----
-
-## Future Work
+# Future Work
 
 - DeepLabV3+
 - Attention U-Net
 - ENet
+- MobileNetV3 Segmentation
 - Real-time deployment
-- CARLA Simulator integration
+- TensorRT optimization
+- CARLA simulator integration
+- Multi-camera lane fusion
 
 ---
 
-## Author
+# License
 
-Sai Sri Krishna Teja Sanku
+Released under the MIT License.
 
-University of Florida
+---
+
+## Acknowledgements
+
+This work was carried out as an undergraduate research project at
+SRM Institute of Science and Technology under the guidance of
+**Dr. Godwin Ponsam J**.
+
+Research Team:
+
+- Sai Sri Krishna Teja Sanku
+- Harshith Kalyanam
+- Likhitha Pulluru
+
+The original project report is included in the `research/` directory.
+
