@@ -1,11 +1,13 @@
 # Autonomous Driving Lane Detection using Deep Learning
 
-Institution: SRM Institute of Science and Technology
-Project Duration: 2024–2025
-Project Type: Undergraduate Research Project
-Faculty Guide: Dr. Godwin Ponsam J
-Dataset: TuSimple Lane Detection Benchmark
-Framework: PyTorch
+| | |
+|---|---|
+| **Institution** | SRM Institute of Science and Technology |
+| **Project Duration** | 2024–2025 |
+| **Project Type** | Undergraduate Research Project |
+| **Faculty Guide** | Dr. Godwin Ponsam J |
+| **Dataset** | TuSimple Lane Detection Benchmark |
+| **Framework** | PyTorch |
 
 PyTorch implementation of an end-to-end lane segmentation pipeline for autonomous driving using the TuSimple Lane Detection Benchmark.
 
@@ -40,9 +42,7 @@ The research team consisted of:
 - Harshith Kalyanam
 - Likhitha Pulluru
 
-This repository preserves the implementation developed as part of that
-project together with additional documentation, evaluation scripts,
-visualizations, and reproducibility improvements.
+This repository contains the implementation, experimental results, visualizations, and supporting documentation developed during the undergraduate research project.
 
 ---
 
